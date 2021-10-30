@@ -1,6 +1,6 @@
 <h4 align="center">
   
-![wp2863975](https://user-images.githubusercontent.com/45472156/139513583-bb45cd94-42dc-4eee-83bc-c13b23053c55.gif)
+![fadcb24075acb650de29f258af69d830](https://user-images.githubusercontent.com/45472156/139514021-173b927b-e909-42e1-bb15-967bf572f193.gif)
 
 ### Hello, World. Gabriel Przybysz here! 👋
 
