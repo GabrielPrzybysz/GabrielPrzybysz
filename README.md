@@ -5,8 +5,8 @@
  
 ### Hello, World. 
 
-- :rage1: Backend Programmer
-- :godmode: Passionate about math, infosec and programming
+- :computer_mouse: Backend Programmer
+- :keyboard: Passionate about math, infosec and programming
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
