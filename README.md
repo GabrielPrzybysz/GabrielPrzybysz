@@ -5,7 +5,7 @@
  
 ## Hello, World. 
 
-<b>- Backend Programmer. <br>- Passionate about math, infosec and programming. <b>
+<b> :rage1:	 Backend Programmer. <br> :rage2: Passionate about math, infosec and programming. <b>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
