@@ -9,6 +9,11 @@
 <br>🔭 I'm currently working on Horizon Chase at Aquiris Game Studio
  
 :rage1:	 Backend Programmer. <br> :rage2: Passionate about math, infosec and programming. 
+ 
+ <br>
+ <br>
+ 
+ My blog: https://gabrielprzybysz.github.io/gabeblog/
 
  <br>
  
