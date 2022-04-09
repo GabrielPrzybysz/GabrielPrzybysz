@@ -13,7 +13,7 @@
  <br>
  <br>
  
- My blog: https://gabrielprzybysz.github.io/gabeblog/
+ My blog: https://www.perxibes.com.br
 
  <br>
  
