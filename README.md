@@ -16,8 +16,6 @@
  
  My blog: https://www.perxibes.com.br
 
- <br>
- 
  <h3> 🖤 My favorite technologies: <h3>
  
   <div style="display: inline_block">
