@@ -1,6 +1,7 @@
 <h4 align="center">
  
-![CTmm](https://user-images.githubusercontent.com/45472156/139517507-69a4c6c4-0aaf-4485-ae7e-472286ea6a48.gif)
+![image](https://user-images.githubusercontent.com/45472156/229261913-22fa02c4-309d-4a62-8646-d8b04fb84ad5.png)
+
 
  
 ## Hello, World. 
