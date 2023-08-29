@@ -1,9 +1,8 @@
 <h4 align="center">
  
-![image](https://user-images.githubusercontent.com/45472156/229261913-22fa02c4-309d-4a62-8646-d8b04fb84ad5.png)
 
+![20c658e4c375268eed59d1c94b61059f](https://github.com/GabrielPrzybysz/GabrielPrzybysz/assets/45472156/ace28777-9579-4094-b69e-edb1e5d541a4)
 
- 
 ## Hello, World. 
 
  🌍 I am from: Rio Grande do Sul, Brazil
