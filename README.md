@@ -8,7 +8,7 @@
  🌍 I am from: Rio Grande do Sul, Brazil
 <br>🔭 I'm currently working at Epic Games Brasil
  
-:rage1:	 Backend Engineer | Dark Code Club Founder  | Cybersecurity Analyst . <br> :rage2: Passionate about math, infosec and programming. 
+:rage1:	 Back-End Engineer | Cybersecurity Enthusiast <br> :rage2: Passionate about math, infosec and programming. 
  
  <br>
  <br>
