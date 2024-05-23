@@ -8,7 +8,7 @@
  🌍 I am from: Rio Grande do Sul, Brazil
 <br>🔭 I'm currently working at ADP Brazil Labs
  
-:rage1:	 DevOps Engineer | Back-End Engineer | Cybersecurity Enthusiast <br> :rage2: Passionate about math, infosec and programming. 
+:rage1:	 Cloud Engineer | Back-End Engineer | Cybersecurity Enthusiast <br> :rage2: Passionate about math, infosec and programming. 
  
  <br>
  <br>
