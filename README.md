@@ -1,7 +1,8 @@
 <h4 align="center">
  
 
-![20c658e4c375268eed59d1c94b61059f](https://github.com/GabrielPrzybysz/GabrielPrzybysz/assets/45472156/ace28777-9579-4094-b69e-edb1e5d541a4)
+![image](https://github.com/GabrielPrzybysz/GabrielPrzybysz/assets/45472156/a2f05d07-e371-4ec8-9af2-d9fefe02ca12)
+
 
 ## Hello, World. 
 
