@@ -1,7 +1,8 @@
 <h4 align="center">
  
 
-![image](https://github.com/GabrielPrzybysz/GabrielPrzybysz/assets/45472156/a5c3ab30-778b-4d14-9769-457ab1349414)
+![336125487-a5c3ab30-778b-4d14-9769-457ab1349414](https://github.com/GabrielPrzybysz/GabrielPrzybysz/assets/45472156/622a9319-4f41-4ac0-8cee-2141be5db37c)
+
 
 
 
