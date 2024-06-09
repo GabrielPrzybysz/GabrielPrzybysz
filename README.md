@@ -9,7 +9,6 @@
 ## Hello, World. 
 
  🌍 I am from: Rio Grande do Sul, Brazil
-<br>🔭 I'm currently working at ADP Brazil Labs
  
 :rage1:	Cybersecurity Analyst | DevOps Engineer <br> :rage2: Passionate about math, infosec and programming. 
  
