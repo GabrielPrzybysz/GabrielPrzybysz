@@ -10,7 +10,7 @@
 
  🌍 I am from: Rio Grande do Sul, Brazil
  
-:rage1:	Cybersecurity Analyst | DevOps Engineer <br> :rage2: Passionate about math, infosec and programming. 
+:rage1:	Public Cloud Engineer | Ofensive Security <br> :rage2: Passionate about math, infosec and programming. 
  
  <br>
  <br>
