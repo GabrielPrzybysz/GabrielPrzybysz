@@ -15,7 +15,7 @@
  <br>
  <br>
  
- My blog: https://www.perxibes.com.br
+ My blog: [https://gabesec.info](https://gabesec.info)
 
  <h3> 🖤 My favorite technologies: <h3>
  
