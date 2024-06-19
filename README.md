@@ -13,7 +13,6 @@
 :rage1:	Public Cloud Engineer | Offensive Security <br> :rage2: Passionate about math, infosec and programming. 
  
  <br>
- <br>
  
  My blog: [https://gabesec.info](https://gabesec.info)
 
