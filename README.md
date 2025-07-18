@@ -14,4 +14,4 @@
  
  <br>
  
- My blog: [https://gabesec.info](https://gabesec.info)
+ My blog: [https://gabesec.info](https://gabrielprzybysz.github.io/gabe-blog/)
