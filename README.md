@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/GabrielPrzybysz/GabrielPrzybysz/assets/45472156/622a9319-4f41-4ac0-8cee-2141be5db37c" width="420"/>
+  <img src="https://github.com/GabrielPrzybysz/GabrielPrzybysz/assets/45472156/622a9319-4f41-4ac0-8cee-2141be5db37c" width="720"/>
 </h3>
 
 <h2 align="center">
