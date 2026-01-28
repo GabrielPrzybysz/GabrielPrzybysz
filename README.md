@@ -1,12 +1,18 @@
-<h4 align="center">
- 
+<h3 align="center">
+  <img src="https://github.com/GabrielPrzybysz/GabrielPrzybysz/assets/45472156/622a9319-4f41-4ac0-8cee-2141be5db37c" width="420"/>
+</h3>
 
-![336125487-a5c3ab30-778b-4d14-9769-457ab1349414](https://github.com/GabrielPrzybysz/GabrielPrzybysz/assets/45472156/622a9319-4f41-4ac0-8cee-2141be5db37c)
+<h2 align="center">
+  Security Engineer · Offensive Security
+</h2>
 
+<p align="center">
+  I break systems to understand where they fail.<br>
+  Then I help build them so they don’t.
+</p>
 
- 
-:rage1: Security Engineer <br> :rage2: Passionate about math, infosec and programming. 
- 
- <br>
- 
- My blog: [https://gabesec.info](https://gabrielprzybysz.github.io/gabe-blog/)
+<p align="center">
+  <a href="https://gabrielprzybysz.github.io/gabe-blog/">
+    Technical blog
+  </a>
+</p>
