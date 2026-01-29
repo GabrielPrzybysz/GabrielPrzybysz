@@ -7,8 +7,7 @@
 </h2>
 
 <p align="center">
-  I break systems to understand where they fail.<br>
-  Then I help build them so they don’t.
+  Everything fails. Plan for it.
 </p>
 
 <p align="center">
