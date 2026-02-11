@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gabrielprzybysz.github.io/gabe-blog/">
+  <a href="https://perxibes.net">
     Technical blog
   </a>
 </p>
