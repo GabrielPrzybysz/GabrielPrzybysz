@@ -3,11 +3,11 @@
 </h3>
 
 <h2 align="center">
-  Security Engineer · Offensive Security
+  Security Engineer | Offensive Security
 </h2>
 
 <p align="center">
-  Everything fails. Plan for it.
+  everything fails
 </p>
 
 <p align="center">
